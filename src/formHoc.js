@@ -52,7 +52,6 @@ const formHoc = Origin => {
     }
 
     onSubmit = () => {
-      console.log('ok!!! submitting')
       const validationResult = Object.keys(this.state.data).reduce(
         (acc, key) => {
           const value = this.state.data[key]

@@ -1,9 +1,10 @@
-import formHoc, { FormContextConsumer } from './formHoc'
+import formHoc from './formHoc'
 import Field from './Field'
 import Submitter from './Submitter'
 
-export default formHoc
+
 export { 
+  formHoc,
   Field,
   Submitter
 }
