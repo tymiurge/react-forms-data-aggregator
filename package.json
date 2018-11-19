@@ -1,7 +1,7 @@
 {
   "name": "react-forms-data-aggregator",
   "version": "1.0.0",
-  "description": "react-forms-data-aggregator React component",
+  "description": "A React HOC to easily aggregate data from a form. ",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -33,7 +33,7 @@
     "semantic-ui-react": "^0.83.0"
   },
   "author": "tymiurge",
-  "homepage": "",
+  "homepage": "https://github.com/tymiurge/react-forms-data-aggregator",
   "license": "MIT",
   "repository": "",
   "keywords": [
